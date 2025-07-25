@@ -11,8 +11,6 @@ import (
 	"os"
 )
 
-// dummy commit
-
 var myMap = make(map[string]interface{})
 const (
 	PUSH_EVENT = "PushEvent"
